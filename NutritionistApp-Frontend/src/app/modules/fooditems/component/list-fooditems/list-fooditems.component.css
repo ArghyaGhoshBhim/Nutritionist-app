@@ -1,0 +1,21 @@
+.favourit-flex{
+    display: flex;
+}
+.favourit-remove{
+    margin-left: auto;
+}
+
+.card-container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+   
+
+}
+.card-size{
+    width: 55%;
+}
+.box-shadow{
+    box-shadow: 3px 3px 5px rgb(220, 220, 220);
+}

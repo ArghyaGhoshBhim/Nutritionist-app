@@ -1,0 +1,15 @@
+.logo{
+    height: 2rem;
+    width: 2rem;
+    border-radius: 100%;
+}
+.nav-container{
+    background-color: rgb(54, 117, 243);
+}
+
+.a-color{
+    color: rgb(255, 255, 255);
+}
+.a-color:hover{
+    color: rgb(204, 204, 204);
+}

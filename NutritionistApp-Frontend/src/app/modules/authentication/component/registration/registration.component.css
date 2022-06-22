@@ -1,0 +1,21 @@
+.login-register-flex{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-image: linear-gradient(to right, #8360c3, #2ebf91);
+   
+}
+.login-register-center{
+    padding: 2rem;
+    border: 1px solid gray;
+    box-shadow: 5px 10px 18px rgb(131, 130, 130);
+    background-color: white;
+    border-radius: 5px;  
+}
+.log-reg-heading{
+    padding: 0rem 0rem 1rem 0rem;
+    margin-bottom: 1rem;
+
+}
+

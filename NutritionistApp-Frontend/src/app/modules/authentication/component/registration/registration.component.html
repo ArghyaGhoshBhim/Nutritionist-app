@@ -1,0 +1,63 @@
+<div class="login-register-flex">
+  <div class="login-register-center">
+    <div class="log-reg-heading">
+      <h3>Welcome to Registration Page</h3>
+    </div>
+   
+    <ul class="nav nav-pills nav-justified mb-3">
+      <li class="nav-item">
+        <a class="nav-link" routerLink="/login">Login</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link active" routerLink="/register">Register</a>
+      </li>
+    </ul>
+
+    <div class="tab-content">
+      <div class="tab-pane fade show active">
+        <form [formGroup]="myform" (ngSubmit)="registerUser()">
+          <!-- Email input -->
+          <div class="mb-4">
+            <label class="form-label">Email or username</label>
+            <input
+              type="email"
+              class="form-control"
+              placeholder="Enter Username"
+              formControlName="username"
+            />
+            <div *ngIf="!isUserameCtrlRequireValid()" class="text-danger">
+              <div></div>
+              *Username is required
+            </div>
+
+            <div *ngIf="!isUserameCtrlMinLengthValid()" class="text-danger">
+              *minimum length of username should is 4
+            </div>
+          </div>
+
+          <!-- Password input -->
+          <div class="mb-4">
+            <label class="form-label">Password</label>
+            <input
+              type="password"
+              class="form-control"
+              placeholder="Enter Password"
+              formControlName="password"
+            />
+
+            <div *ngIf="!isPasswordCtrlRequireValid()" class="text-danger">
+              *Password is required
+            </div>
+            <div *ngIf="!isPasswordCtrlMinLengthValid()" class="text-danger">
+              *minimum length of password should is 4
+            </div>
+          </div>
+
+          <button type="submit" class="btn btn-primary btn-block mb-4">
+            Register Now
+          </button>
+        </form>
+      </div>
+    </div>
+  </div>
+</div>
