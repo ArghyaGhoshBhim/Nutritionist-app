@@ -1,0 +1,15 @@
+G:\StackRoute\final project\microsevice\nutritionist-app\favouritms\src\main\java\com\foodApp\favouritms\entity\FoodNutrient.java
+G:\StackRoute\final project\microsevice\nutritionist-app\favouritms\src\main\java\com\foodApp\favouritms\entity\FavoritedItem.java
+G:\StackRoute\final project\microsevice\nutritionist-app\favouritms\src\main\java\com\foodApp\favouritms\FavouritmsApplication.java
+G:\StackRoute\final project\microsevice\nutritionist-app\favouritms\src\main\java\com\foodApp\favouritms\controller\FavouriteFoodRestApi.java
+G:\StackRoute\final project\microsevice\nutritionist-app\favouritms\src\main\java\com\foodApp\favouritms\dto\FavoritedItemDetails.java
+G:\StackRoute\final project\microsevice\nutritionist-app\favouritms\src\main\java\com\foodApp\favouritms\dao\IFavouritFoodRepository.java
+G:\StackRoute\final project\microsevice\nutritionist-app\favouritms\src\main\java\com\foodApp\favouritms\dto\AddFavouriteFoodRequest.java
+G:\StackRoute\final project\microsevice\nutritionist-app\favouritms\src\main\java\com\foodApp\favouritms\dto\RemoveFavorited.java
+G:\StackRoute\final project\microsevice\nutritionist-app\favouritms\src\main\java\com\foodApp\favouritms\exceptions\FoodNotFoundException.java
+G:\StackRoute\final project\microsevice\nutritionist-app\favouritms\src\main\java\com\foodApp\favouritms\service\IFavouriteFoodService.java
+G:\StackRoute\final project\microsevice\nutritionist-app\favouritms\src\main\java\com\foodApp\favouritms\controller\CentralizedExceptionHandler.java
+G:\StackRoute\final project\microsevice\nutritionist-app\favouritms\src\main\java\com\foodApp\favouritms\CustomMongoConfig.java
+G:\StackRoute\final project\microsevice\nutritionist-app\favouritms\src\main\java\com\foodApp\favouritms\exceptions\FavoritedItemExistException.java
+G:\StackRoute\final project\microsevice\nutritionist-app\favouritms\src\main\java\com\foodApp\favouritms\service\FavouriteFoodServiceImpl.java
+G:\StackRoute\final project\microsevice\nutritionist-app\favouritms\src\main\java\com\foodApp\favouritms\util\FavouriteFoodUtil.java

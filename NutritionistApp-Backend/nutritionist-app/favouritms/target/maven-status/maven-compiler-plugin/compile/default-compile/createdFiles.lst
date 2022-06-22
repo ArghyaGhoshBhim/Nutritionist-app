@@ -1,0 +1,15 @@
+com\foodApp\favouritms\CustomMongoConfig.class
+com\foodApp\favouritms\util\FavouriteFoodUtil.class
+com\foodApp\favouritms\controller\CentralizedExceptionHandler.class
+com\foodApp\favouritms\dao\IFavouritFoodRepository.class
+com\foodApp\favouritms\controller\FavouriteFoodRestApi.class
+com\foodApp\favouritms\exceptions\FoodNotFoundException.class
+com\foodApp\favouritms\exceptions\FavoritedItemExistException.class
+com\foodApp\favouritms\dto\RemoveFavorited.class
+com\foodApp\favouritms\dto\FavoritedItemDetails.class
+com\foodApp\favouritms\service\FavouriteFoodServiceImpl.class
+com\foodApp\favouritms\entity\FoodNutrient.class
+com\foodApp\favouritms\entity\FavoritedItem.class
+com\foodApp\favouritms\dto\AddFavouriteFoodRequest.class
+com\foodApp\favouritms\service\IFavouriteFoodService.class
+com\foodApp\favouritms\FavouritmsApplication.class

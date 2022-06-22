@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="da44fba2-d6cd-4441-89a4-bb3b437c045d" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/foodApp/favouritms/controller/FavouriteFoodRestApiTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/foodApp/favouritms/controller/FavouriteFoodRestApiTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/foodApp/favouritms/service/FavouriteFoodServiceImplTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/foodApp/favouritms/service/FavouriteFoodServiceImplTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/foodApp/favouritms/controller/FavouriteFoodRestApi.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/foodApp/favouritms/controller/FavouriteFoodRestApi.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../userms/.idea/runConfigurations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../userms/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../userms/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="2AmaIPMdwPBx02LFjdvEVX16Tht" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager">
+    <configuration name="FavouriteFoodRestApiTest.testRemoveFavourit_2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="favouritms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.foodApp.favouritms.controller.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.foodApp.favouritms.controller" />
+      <option name="MAIN_CLASS_NAME" value="com.foodApp.favouritms.controller.FavouriteFoodRestApiTest" />
+      <option name="METHOD_NAME" value="testRemoveFavourit_2" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.FavouriteFoodRestApiTest.testRemoveFavourit_2" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="da44fba2-d6cd-4441-89a4-bb3b437c045d" name="Changes" comment="" />
+      <created>1655617137638</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1655617137638</updated>
+    </task>
+    <servers />
+  </component>
+</project>

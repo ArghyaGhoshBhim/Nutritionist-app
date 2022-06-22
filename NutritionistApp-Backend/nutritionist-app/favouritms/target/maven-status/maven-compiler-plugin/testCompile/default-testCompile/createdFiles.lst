@@ -1,0 +1,3 @@
+com\foodApp\favouritms\controller\FavouriteFoodRestApiTest.class
+com\foodApp\favouritms\FavouritmsApplicationTests.class
+com\foodApp\favouritms\service\FavouriteFoodServiceImplTest.class
